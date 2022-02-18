@@ -18,4 +18,4 @@ A list of movies with infinite scroll and filters. Made with Vue 3.
 
 ### Author
 
-[Matheus Abreu](https://www.linkedin/in/matheusabr)
+[Matheus Abreu](https://www.linkedin.com/in/matheusabr)
