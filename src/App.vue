@@ -56,4 +56,9 @@ h4 {
 h5 {
   font-size: 10px;
 }
+
+.loading {
+  padding: 20px;
+  text-align: center;
+}
 </style>
